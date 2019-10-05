@@ -1,0 +1,11 @@
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\bin\Debug\netcoreapp2.2\ThirdLesson.deps.json
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\bin\Debug\netcoreapp2.2\ThirdLesson.runtimeconfig.json
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\bin\Debug\netcoreapp2.2\ThirdLesson.runtimeconfig.dev.json
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\bin\Debug\netcoreapp2.2\ThirdLesson.dll
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\bin\Debug\netcoreapp2.2\ThirdLesson.pdb
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\obj\Debug\netcoreapp2.2\ThirdLesson.csprojAssemblyReference.cache
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\obj\Debug\netcoreapp2.2\ThirdLesson.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\obj\Debug\netcoreapp2.2\ThirdLesson.AssemblyInfoInputs.cache
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\obj\Debug\netcoreapp2.2\ThirdLesson.AssemblyInfo.cs
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\obj\Debug\netcoreapp2.2\ThirdLesson.dll
+C:\Users\Pawel\RiderProjects\ThirdLesson\ThirdLesson\obj\Debug\netcoreapp2.2\ThirdLesson.pdb
