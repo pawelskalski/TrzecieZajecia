@@ -6,15 +6,17 @@ namespace ThirdLesson
 {
     public class functions
     {
-        public static List<int> createGradesList()
+        public static List<double> createGradesList()
         {
-            List<int> grades = new List<int>();
-            int grade = 0;
+            List<double> grades = new List<double>();
+            double grade = 0;
             while (grade != -1)
             {
                 try
                 {
-                    grade = Convert.ToInt32(Console.ReadLine());
+                    grade = Convert.ToDouble(Console.ReadLine());
+                    grade = Convert.ToDouble(grade.ToString("0.00")); //2dp Number
+                    
                     if (grade > 6)
                     {
                         Console.WriteLine("Ocena nie moze byc wyzsza niz 6");
@@ -42,7 +44,7 @@ namespace ThirdLesson
             return grades;
         }
 
-        public static float studentAverage(List<int> grades)
+        public static float studentAverage(List<double> grades)
         {
             float average;
             average = (float) grades.Sum() / (float) grades.Count;
